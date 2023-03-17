@@ -1,0 +1,15 @@
+/target/
+!.mvn/wrapper/mave-wrapper.jar
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.srpingBeans
+.sts4-cache
+### Intelik IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
